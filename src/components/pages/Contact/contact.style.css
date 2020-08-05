@@ -1,0 +1,42 @@
+.contact-content {
+  width: 70%;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 15%;
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-bottom: 20px;
+  padding-right: 25px;
+  background-color: white;
+  max-width: 450px;
+  min-width: 250px;
+  opacity: 0.9;
+  border-radius: 20px;
+}
+@media screen and (max-width: 990px) {
+  #contact-info {
+    width: 90%;
+    margin-top: 10%;
+    margin-left: 4%;
+    margin-bottom: 50%;
+  }
+}
+
+li {
+  list-style: none;
+}
+.logo {
+  max-width: 75px;
+  max-height: 75px;
+  margin: 10px 5px 10px 23px;
+  border-radius: 15px;
+  border: solid 2px transparent;
+}
+#git{
+  text-align: center;
+  display: inline-block;
+}
+.contactInfoTel{
+  text-align: center;
+}

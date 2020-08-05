@@ -1,0 +1,14 @@
+.mainContainer{
+    background-image: url(../images/background.png);
+    /* background-size: cover; */
+    background-attachment: fixed;
+    background-position: center ;
+}
+#top-icon {
+    position: fixed;
+    bottom: 1.5em;
+    right: 0.25em;
+    max-width: 75px;
+    background-attachment: scroll;
+    z-index: 2000;
+}

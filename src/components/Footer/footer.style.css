@@ -1,0 +1,14 @@
+footer {
+    height: 100%;
+    color: wheat;
+    background-color: rgb(17, 16, 16);
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    /* opacity: 0.8; */
+    border-top: 1px solid white;
+  }
+  #copyright {
+    text-align: center;
+  }

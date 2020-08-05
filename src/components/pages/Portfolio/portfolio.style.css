@@ -1,0 +1,39 @@
+#portfolio-info {
+  /* background-color: white; */
+  width: 90%;
+  height: 70%;
+  margin-right: 80%;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 15%;
+  padding-left: 35px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  padding-right: 35px;
+  position: relative;
+  text-align: center;
+  border-radius: 20px;
+}
+#portfolio {
+  text-align: center;
+  color: white;
+}
+@media screen and (max-width: 990px) {
+  #portfolio-info {
+    width: 90%;
+    margin-top: 2%;
+    margin-right: 10%;
+    margin-bottom: 15%;
+    padding-left: 1px;
+    padding-right: 1px;
+
+
+  }
+}
+#portfolioLine {
+  background-color: white;
+}
+
+.projectCard:hover{
+  transform: scale(1.1);
+}
