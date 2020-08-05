@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link, useLocation } from "react-router-dom";
-import "./navTabs.style.css"
+import "./navTabs.style.css";
 
 class NavTabs extends Component {
   constructor(props) {
@@ -24,7 +24,10 @@ class NavTabs extends Component {
       ? "navbar-toggler navbar-toggler-right collapsed"
       : "navbar-toggler navbar-toggler-right";
     return (
-      <nav id="navBar" className="navbar navbar-expand-lg navbar-dark  transparent-nav">
+      <nav
+        id="navBar"
+        className="navbar navbar-expand-lg navbar-dark  transparent-nav"
+      >
         <div className="container">
           <Link className="navbar-brand" to="/">
             Volodymyr Petrytsya
@@ -45,17 +48,29 @@ class NavTabs extends Component {
           <div className={`${classOne}`} id="navbarResponsive">
             <ul className="navbar-nav ml-auto">
               <li className="nav-item ">
-                <Link className="nav-link" to="/about">
+                <Link
+                  className="nav-link"
+                  onClick={this.toggleNavbar}
+                  to="/about"
+                >
                   About
                 </Link>
               </li>
               <li className="nav-item ">
-                <Link className="nav-link" to="/portfolio-r">
+                <Link
+                  className="nav-link"
+                  onClick={this.toggleNavbar}
+                  to="/portfolio-r"
+                >
                   Portfolio
                 </Link>
               </li>
               <li className="nav-item ">
-                <Link className="nav-link" to="/contact">
+                <Link
+                  className="nav-link"
+                  onClick={this.toggleNavbar}
+                  to="/contact"
+                >
                   Contact
                 </Link>
               </li>
