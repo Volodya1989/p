@@ -39,7 +39,7 @@ export default function ProjectCard(props) {
         <br />
         <p>{overview}</p>
         <h3 className="card-text" id="rating-movie">
-          <a href={repositoryLink}>
+          <a href={repositoryLink} target="_blank">
             <i className="fa fa-github fa-2x" aria-hidden="true"></i>
           </a>
         </h3>
