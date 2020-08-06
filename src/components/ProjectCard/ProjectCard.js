@@ -5,6 +5,7 @@ import employeeDirectory from "../images/employeeDirectory.png";
 import weatherDashboard from "../images/weatherDashboard.png";
 import dailyScheduler from "../images/dailyScheduler.gif";
 import codingQuiz from "../images/codingQuiz.gif";
+import ScrollUp from "../ScrollUp/ScrollUp";
 import "./projectCard.style.css";
 export default function ProjectCard(props) {
   const images = {
@@ -43,7 +44,11 @@ export default function ProjectCard(props) {
             <i className="fa fa-github fa-2x" aria-hidden="true"></i>
           </a>
         </h3>
-       
+        <div>
+        <ScrollUp/>
+
+        </div>
+
       </div>
     </div>
 
