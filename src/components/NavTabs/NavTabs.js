@@ -48,31 +48,52 @@ class NavTabs extends Component {
           <div className={`${classOne}`} id="navbarResponsive">
             <ul className="navbar-nav ml-auto">
               <li className="nav-item ">
-                <Link
+                <a
+                  className="nav-link"
+                  onClick={this.toggleNavbar}
+                  href="#about"
+                >
+                  About
+                </a>
+                {/* <Link
                   className="nav-link"
                   onClick={this.toggleNavbar}
                   to="/about"
                 >
                   About
-                </Link>
+                </Link> */}
               </li>
               <li className="nav-item ">
-                <Link
+                <a
                   className="nav-link"
                   onClick={this.toggleNavbar}
-                  to="/portfolio-r"
+                  href="#portfolio"
                 >
                   Portfolio
-                </Link>
+                </a>
+                {/* <Link
+                  className="nav-link"
+                  onClick={this.toggleNavbar}
+                  href="#portfolio-info"
+                >
+                  Portfolio
+                </Link> */}
               </li>
               <li className="nav-item ">
-                <Link
+                <a
+                  className="nav-link"
+                  onClick={this.toggleNavbar}
+                  href="#contact"
+                >
+                  Contact
+                </a>
+                {/* <Link
                   className="nav-link"
                   onClick={this.toggleNavbar}
                   to="/contact"
                 >
                   Contact
-                </Link>
+                </Link> */}
               </li>
             </ul>
           </div>

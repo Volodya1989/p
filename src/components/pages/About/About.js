@@ -6,6 +6,8 @@ import inl from "../../assets/inl.png";
 import mail from "../../assets/mail.png";
 import github from "../../assets/github.png";
 import ScrollUp from "../../ScrollUp/ScrollUp";
+import Portfolio from '../Portfolio/Portfolio';
+import Contact from '../Contact/Contact';
 
 import "./about.style.css";
 
@@ -78,6 +80,8 @@ function About() {
           </div>
         </section>
       </main>
+      <Portfolio/>
+      <Contact/>
     </div>
   );
 }
