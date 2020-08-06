@@ -23,7 +23,7 @@ This Portfolio Website was done for personal use of the people who would like to
 
 This web page was built by using best practices of web development including React.js, HTML, CSS, responsive images, responsive layout and modified components of bootstrap library.
 
-[Deployed Horiseon Website Link ](https://volodya1989.github.io/gt-hw-bootstrap-portfolio/)
+[Deployed Horiseon Website Link ](https://volodya1989.github.io/portf/)
 
 
 
