@@ -21,7 +21,7 @@ function About() {
               <div className="row">
                 <div className="col-sm-12">
                   <h1 className="content-text">About Me</h1>
-                  <hr />
+                  <hr id="portfolioLine"/>
                 </div>
               </div>
 

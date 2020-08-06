@@ -22,7 +22,7 @@ const Contact = () => {
                 <form>
                   <h1 className="content-text">Contact Me</h1>
                   <div>
-                    <hr />
+                    <hr id="portfolioLine" />
                     <ul>
                       <li>
                         <a href="tel:+12244000558">

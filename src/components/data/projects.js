@@ -41,7 +41,7 @@ export const projects = [
     image: "dailyScheduler",
     deployedLink: "https://volodya1989.github.io/work-day-scheduler/",
     repositoryLink: "https://github.com/Volodya1989/gt-hw-work-day-scheduler",
-    overview: `Daily Scheduler Application was build by using best practices of web development by using HTML, CSS, jQuery as well as Bootstrap and Moment.js libraries.
+    overview: `Daily Scheduler Application was build by using best practices of web development by using HTML, CSS, jQuery.
     This application is intended for people who want to schedule their daily activities online.`,
   },
   {
