@@ -1,26 +1,40 @@
 .contact-content {
-  width: 70%;
+  width: 95%;
   margin-top: 5%;
-  margin-left: 5%;
-  margin-right: 5%;
+  /* margin-left: 3%; */
+  /* margin-right: 5%; */
   margin-bottom: 15%;
   padding-top: 25px;
   padding-left: 25px;
   padding-bottom: 20px;
   padding-right: 25px;
-  background-color:  rgba(51, 51, 51, 0.856);
+  background-color: rgba(51, 51, 51, 0.856);
   color: white;
-  max-width: 450px;
-  min-width: 250px;
+  /* max-width: 450px;
+  min-width: 250px; */
   opacity: 0.9;
   border-radius: 20px;
 }
+
 @media screen and (max-width: 990px) {
   #contact-info {
     width: 90%;
     margin-top: 10%;
     margin-left: 4%;
-    margin-bottom: 50%;
+    margin-bottom: 15%;
+  }
+  .map {
+    display: none;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .contact-content {
+    /* width: 70%; */
+     max-width: 450px;
+  min-width: 250px;
+  }
+  .map {
+    display: none;
   }
 }
 
@@ -34,10 +48,16 @@ li {
   border-radius: 15px;
   border: solid 2px transparent;
 }
-#git{
+#git {
   text-align: center;
   display: inline-block;
 }
-.contactInfoTel{
+.contactInfoTel {
   text-align: center;
+}
+
+.map {
+  margin-top: 30px;
+  width: 600px;
+  height: 470px;
 }
