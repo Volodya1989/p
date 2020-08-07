@@ -60,26 +60,27 @@ export default class ScrollUp extends Component {
             <div onClick={() => this.scrollToTop()}>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                height="38.735"
-                width="33.749"
+                height="40"
+                width="34"
               >
                 <g transform="translate(-18.121 -3.364)">
                   <rect
-                    ry="4.928"
-                    y="3.364"
-                    x="18.121"
-                    height="38.735"
-                    width="33.749"
-                    fill="#00f"
+                    ry="4"
+                    y="3"
+                    x="18"
+                    height="40"
+                    width="34"
+                    // fill="rgb(46, 2, 104)"
                   />
                   <g transform="translate(-.48 2.134)">
                     <rect
-                      ry="4.928"
-                      y="1.229"
-                      x="18.601"
-                      height="38.735"
-                      width="33.749"
-                      fill="url(#b)"
+                      ry="4"
+                      y="1"
+                      x="18"
+                      height="40"
+                      width="34"
+                      // fill="rgb(46, 2, 104)"
+
                     />
 
                     <g fill="#ececec">
