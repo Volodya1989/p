@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "975409743f8a885eb62792ecda573309",
+    "revision": "e29ea2185e10fa4f4bf6d963f26b710b",
     "url": "/portf/index.html"
   },
   {
-    "revision": "da57f2d03cb3f7018182",
+    "revision": "248ecf3cf235b9bfff02",
     "url": "/portf/static/css/main.9cc2c688.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portf/static/js/2.c3c42952.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da57f2d03cb3f7018182",
-    "url": "/portf/static/js/main.4895fba6.chunk.js"
+    "revision": "248ecf3cf235b9bfff02",
+    "url": "/portf/static/js/main.1b4999dd.chunk.js"
   },
   {
     "revision": "0700ce093da7849dd878",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portf/static/media/background.5bb7c8d0.png"
   },
   {
-    "revision": "470430322f7bb74c01040e40d29550de",
-    "url": "/portf/static/media/codingQuiz.47043032.gif"
+    "revision": "2279fe8d66071f10115824c5c40840d4",
+    "url": "/portf/static/media/booksSearch.2279fe8d.png"
   },
   {
-    "revision": "1a3a635ebceee80b0179a233cac99d7c",
-    "url": "/portf/static/media/dailyScheduler.1a3a635e.gif"
+    "revision": "470430322f7bb74c01040e40d29550de",
+    "url": "/portf/static/media/codingQuiz.47043032.gif"
   },
   {
     "revision": "8a1f5e84d84ac18605e89754b1a9bbf1",
