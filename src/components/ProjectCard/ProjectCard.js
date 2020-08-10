@@ -3,17 +3,17 @@ import memoryMaker from "../images/memoryMaker.png";
 import stayingInTonight from "../images/stayingInTonight.png";
 import employeeDirectory from "../images/employeeDirectory.png";
 import weatherDashboard from "../images/weatherDashboard.png";
-import dailyScheduler from "../images/dailyScheduler.gif";
+import booksSearch from "../images/booksSearch.png";
 import codingQuiz from "../images/codingQuiz.gif";
 import ScrollUp from "../ScrollUp/ScrollUp";
 import "./projectCard.style.css";
 export default function ProjectCard(props) {
   const images = {
     memoryMaker,
+    booksSearch,
     stayingInTonight,
     employeeDirectory,
     weatherDashboard,
-    dailyScheduler,
     codingQuiz,
   };
 
@@ -45,29 +45,9 @@ export default function ProjectCard(props) {
           </a>
         </h3>
         <div>
-        <ScrollUp/>
-
+          <ScrollUp />
         </div>
-
       </div>
     </div>
-
-    // <div className="col-sm-12 col-md-6 mb-4">
-    //   <div className="banner">
-    //     <img
-    //       alt="preview of the project"
-    //       className="card-img-top"
-    //       src={images[image]}
-    //     />
-    //     <div className="heading">
-    //       <a href={deployedLink}>
-    //         <h3>{name}</h3>
-    //       </a>
-    //       <a href={repositoryLink}>
-    //         <i className="fa fa-github fa-2x" aria-hidden="true"></i>
-    //       </a>
-    //     </div>
-    //   </div>
-    // </div>
   );
 }
