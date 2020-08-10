@@ -9,6 +9,14 @@ export const projects = [
       "This application is intended to help user organize their memories so that they spend less time scrolling through their phone for pictures and more time enjoying their memories! ",
   },
   {
+    name: "Books Search",
+    key: "booksSearch",
+    image: "booksSearch",
+    deployedLink: "https://google-boks-search.herokuapp.com/",
+    repositoryLink: "https://github.com/Volodya1989/google-books-search",
+    overview: `This is MERN application. It was created for people who would like to search for books. Also Node, Express and MongoDB were used so that users can save books to review or purchase later on.`,
+  },
+  {
     name: "Staying In Tonight",
     key: "stayingInTonight",
     image: "stayingInTonight",
@@ -35,15 +43,7 @@ export const projects = [
     repositoryLink: "https://github.com/Volodya1989/gt-hw-weather-dashboard",
     overview: `Weather Dashboard Application was build by using  by using HTML, CSS, Bootstrap Library and jQuery. This application is intended for people who want to check weather in different cities on daily basis.`,
   },
-  {
-    name: "Daily Scheduler",
-    key: "dailyScheduler",
-    image: "dailyScheduler",
-    deployedLink: "https://volodya1989.github.io/work-day-scheduler/",
-    repositoryLink: "https://github.com/Volodya1989/gt-hw-work-day-scheduler",
-    overview: `Daily Scheduler Application was build by using best practices of web development by using HTML, CSS, jQuery.
-    This application is intended for people who want to schedule their daily activities online.`,
-  },
+
   {
     name: "Coding Quiz",
     key: "codingQuiz",
