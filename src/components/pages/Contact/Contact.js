@@ -7,6 +7,8 @@ import github from "../../assets/github.png";
 import ScrollUp from "../../ScrollUp/ScrollUp";
 import mail from "../../assets/mail.png";
 import mobile from "../../assets/mobile.png";
+import Resume_Vol_Petrytsya from "../../assets/Resume_Vol_Petrytsya.pdf";
+
 
 const Contact = () => {
   return (
@@ -66,7 +68,7 @@ const Contact = () => {
                     </li>
 
                     <li>
-                      <a href={Resume} className="img__wrap" target="_blank">
+                      <a href={Resume_Vol_Petrytsya} className="img__wrap" target="_blank">
                         <img
                           className="logo img__img"
                           src={resumeIcon}
