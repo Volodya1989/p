@@ -1,6 +1,6 @@
 import React from "react";
 import personal from "../../images/personal.png";
-import Resume from "../../assets/Resume.pdf";
+import Resume_Vol_Petrytsya from "../../assets/Resume_Vol_Petrytsya.pdf";
 import resumeIcon from "../../assets/resumeIcon.png";
 import inl from "../../assets/inl.png";
 import mail from "../../assets/mail.png";
@@ -56,7 +56,7 @@ function About() {
                   </p>
                   <hr />
                   <div id="aboutIcons" className="row ">
-                    <a href={Resume} className="img__wrap" target="_blank">
+                    <a href={Resume_Vol_Petrytsya} className="img__wrap" target="_blank">
                       <img className="logo img__img" src={resumeIcon} alt="CV"></img>
                       <p className="img__description">Resume</p>
                     </a>
