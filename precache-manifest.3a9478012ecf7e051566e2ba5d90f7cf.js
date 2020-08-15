@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e29ea2185e10fa4f4bf6d963f26b710b",
+    "revision": "4497025028991dbc89998a7b810d7feb",
     "url": "/portf/index.html"
   },
   {
-    "revision": "248ecf3cf235b9bfff02",
+    "revision": "b9f7312818aec32d4849",
     "url": "/portf/static/css/main.9cc2c688.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portf/static/js/2.c3c42952.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "248ecf3cf235b9bfff02",
-    "url": "/portf/static/js/main.1b4999dd.chunk.js"
+    "revision": "b9f7312818aec32d4849",
+    "url": "/portf/static/js/main.d4cb694a.chunk.js"
   },
   {
     "revision": "0700ce093da7849dd878",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1a8fbcc8bc7c27b8435c2c30b202fd7e",
     "url": "/portf/static/media/Resume.1a8fbcc8.pdf"
+  },
+  {
+    "revision": "2ccc1f88edcb16432aa9630ef63484a2",
+    "url": "/portf/static/media/Resume_Vol_Petrytsya.2ccc1f88.pdf"
   },
   {
     "revision": "5bb7c8d0cf0c9824cc1762d9b4c5effd",
