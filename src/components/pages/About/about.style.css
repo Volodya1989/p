@@ -2,7 +2,7 @@
     opacity: 0.9;
   } */
 #about-info {
-  background-color:  rgba(51, 51, 51, 0.856);
+  background-color: rgba(51, 51, 51, 0.856);
   color: white;
   width: 60%;
   height: 70%;
@@ -31,8 +31,11 @@
   position: relative;
   text-align: center;
   background-color: rgba(190, 190, 190, 0.904);
+  transition: transform 0.4s;
 }
 .logo:hover {
+  transition: transform 0.4s;
+
   transform: scale(1.3);
 }
 @media screen and (max-width: 990px) {
@@ -69,7 +72,7 @@
   visibility: hidden;
   opacity: 0;
   width: 25px;
-  color:#6176ec;
+  color: #6176ec;
 
   /* transition effect. not necessary */
   transition: opacity 0.2s, visibility 0.2s;
