@@ -1,12 +1,11 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
 /* eslint-disable react/jsx-no-target-blank */
 import React from "react";
-import Resume from "../../assets/Resume.pdf";
 import "./contact.style.css";
 import resumeIcon from "../../assets/resumeIcon.png";
 import inl from "../../assets/inl.png";
 import github from "../../assets/github.png";
-import ScrollUp from "../../ScrollUp/ScrollUp";
+// import ScrollUp from "../../ScrollUp/ScrollUp";
 import mail from "../../assets/mail.png";
 import mobile from "../../assets/mobile.png";
 import Resume_Vol_Petrytsya from "../../assets/Resume_Vol_Petrytsya.pdf";

@@ -53,8 +53,8 @@ function About() {
                     Started my career as manual QA Engineer and now enjoying
                     working as QA Automation Test Engineer. However, I'm very
                     pasionate about Software Development. At a free time
-                    improving my skills with regard to Web Development and now
-                    I'm looking for new opportunities as Full Stack Developer.
+                    improving my skills with regard to Web Development and
+                    always eager to work on a projects as Software Developer.
                   </p>
                   <hr />
                   <div id="aboutIcons" className="row ">
