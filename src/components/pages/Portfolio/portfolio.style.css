@@ -26,14 +26,16 @@
     margin-bottom: 15%;
     padding-left: 1px;
     padding-right: 1px;
-
-
   }
 }
 #portfolioLine {
   background-color: white;
 }
 
-.projectCard:hover{
-  transform: scale(1.1);
+.projectCard:hover {
+  transition: transform 0.4s;
+  transform: scale(1.05);
+}
+.projectCard {
+  transition: transform 0.4s;
 }

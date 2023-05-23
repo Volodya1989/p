@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import memoryMaker from "../images/memoryMaker.png";
 import stayingInTonight from "../images/stayingInTonight.png";
@@ -31,22 +32,23 @@ export default function ProjectCard(props) {
         />
       </div>
       <div className="card-body rounded text-white">
-        <h2 className="card-title" id="title-movie">
+        {/* <h2 className="card-title" id="title-movie">
           <a href={deployedLink} className="btn  btn-primary" target="_blank">
             live demo
           </a>
-        </h2>
-        <h5 id="overview-movie">Project description:</h5>
-        <br />
-        <p>{overview}</p>
+        </h2> */}
         <h3 className="card-text" id="rating-movie">
           <a href={repositoryLink} target="_blank">
             <i className="fa fa-github fa-2x" aria-hidden="true"></i>
           </a>
         </h3>
-        <div>
+        <h5 id="overview-movie">Project description:</h5>
+        <br />
+        <p>{overview}</p>
+
+        {/* <div>
           <ScrollUp />
-        </div>
+        </div> */}
       </div>
     </div>
   );
