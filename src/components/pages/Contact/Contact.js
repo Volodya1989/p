@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import Resume from "../../assets/Resume.pdf";
 import "./contact.style.css";
@@ -8,7 +9,6 @@ import ScrollUp from "../../ScrollUp/ScrollUp";
 import mail from "../../assets/mail.png";
 import mobile from "../../assets/mobile.png";
 import Resume_Vol_Petrytsya from "../../assets/Resume_Vol_Petrytsya.pdf";
-
 
 const Contact = () => {
   return (
@@ -60,7 +60,7 @@ const Contact = () => {
                     </li>
                     <li>
                       <a
-                        href="https://www.linkedin.com/in/volodymyr-petrytsya-497317196/"
+                        href="https://www.linkedin.com/in/vol-petrytsya-497317196/"
                         target="_blank"
                       >
                         <img className="logo" src={inl} alt="CV"></img>
@@ -68,7 +68,11 @@ const Contact = () => {
                     </li>
 
                     <li>
-                      <a href={Resume_Vol_Petrytsya} className="img__wrap" target="_blank">
+                      <a
+                        href={Resume_Vol_Petrytsya}
+                        className="img__wrap"
+                        target="_blank"
+                      >
                         <img
                           className="logo img__img"
                           src={resumeIcon}

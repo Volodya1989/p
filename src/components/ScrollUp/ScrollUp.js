@@ -1,23 +1,7 @@
 import "./scrollUp.style.css";
 import uArrow from "../assets/uArrow.png";
 
-// import React from 'react';
-
-// const ScrollUp = () => {
-//     return (
-//         <div>
-//             <a href="#navBar">
-//                 <img id="up-scroll" src={uArrow} alt="scrollUp"/>
-//             </a>
-//         </div>
-//     );
-// };
-
-// export default ScrollUp;
 import React, { Component } from "react";
-
-
-
 
 export default class ScrollUp extends Component {
   constructor(props) {
@@ -58,11 +42,7 @@ export default class ScrollUp extends Component {
         <div className="scroll-to-top">
           {is_visible && (
             <div onClick={() => this.scrollToTop()}>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                height="40"
-                width="34"
-              >
+              <svg xmlns="http://www.w3.org/2000/svg" height="40" width="34">
                 <g transform="translate(-18.121 -3.364)">
                   <rect
                     ry="4"
@@ -80,7 +60,6 @@ export default class ScrollUp extends Component {
                       height="40"
                       width="34"
                       // fill="rgb(46, 2, 104)"
-
                     />
 
                     <g fill="#ececec">
