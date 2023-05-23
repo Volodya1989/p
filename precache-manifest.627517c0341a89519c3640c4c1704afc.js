@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81382bbc820f12dd027170f8997135c7",
+    "revision": "16baf3391261ecb6e89d8b1c42a7a0d8",
     "url": "/portf/index.html"
   },
   {
-    "revision": "80fe81afbf6a65b7ed1d",
-    "url": "/portf/static/css/main.0ea99ac4.chunk.css"
+    "revision": "d88b4308ab4654c3644a",
+    "url": "/portf/static/css/main.f96a329f.chunk.css"
   },
   {
-    "revision": "c2f3b9230de7b342de59",
-    "url": "/portf/static/js/2.3009ed74.chunk.js"
+    "revision": "7cdf0110998b049ffd8b",
+    "url": "/portf/static/js/2.c09f4ef2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portf/static/js/2.3009ed74.chunk.js.LICENSE.txt"
+    "url": "/portf/static/js/2.c09f4ef2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80fe81afbf6a65b7ed1d",
-    "url": "/portf/static/js/main.2977bd53.chunk.js"
+    "revision": "d88b4308ab4654c3644a",
+    "url": "/portf/static/js/main.8537752a.chunk.js"
   },
   {
     "revision": "0700ce093da7849dd878",
     "url": "/portf/static/js/runtime-main.f89d973a.js"
-  },
-  {
-    "revision": "1a8fbcc8bc7c27b8435c2c30b202fd7e",
-    "url": "/portf/static/media/Resume.1a8fbcc8.pdf"
   },
   {
     "revision": "f45fcb9e24e7555513f5ad6c1d2bd087",
@@ -66,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "07e42be211db59fa370706cdcbce0366",
     "url": "/portf/static/media/stayingInTonight.07e42be2.png"
-  },
-  {
-    "revision": "7d1ede732636bf207385926c00128ad2",
-    "url": "/portf/static/media/uArrow.7d1ede73.png"
   },
   {
     "revision": "cd909be0064f1d5d755d62d00c7952c1",

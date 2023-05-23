@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/portf/static/css/main.0ea99ac4.chunk.css",
-    "main.js": "/portf/static/js/main.2977bd53.chunk.js",
-    "main.js.map": "/portf/static/js/main.2977bd53.chunk.js.map",
+    "main.css": "/portf/static/css/main.f96a329f.chunk.css",
+    "main.js": "/portf/static/js/main.8537752a.chunk.js",
+    "main.js.map": "/portf/static/js/main.8537752a.chunk.js.map",
     "runtime-main.js": "/portf/static/js/runtime-main.f89d973a.js",
     "runtime-main.js.map": "/portf/static/js/runtime-main.f89d973a.js.map",
-    "static/js/2.3009ed74.chunk.js": "/portf/static/js/2.3009ed74.chunk.js",
-    "static/js/2.3009ed74.chunk.js.map": "/portf/static/js/2.3009ed74.chunk.js.map",
+    "static/js/2.c09f4ef2.chunk.js": "/portf/static/js/2.c09f4ef2.chunk.js",
+    "static/js/2.c09f4ef2.chunk.js.map": "/portf/static/js/2.c09f4ef2.chunk.js.map",
     "index.html": "/portf/index.html",
-    "precache-manifest.79bcd0fb1a01dd11aed9621793851c95.js": "/portf/precache-manifest.79bcd0fb1a01dd11aed9621793851c95.js",
+    "precache-manifest.627517c0341a89519c3640c4c1704afc.js": "/portf/precache-manifest.627517c0341a89519c3640c4c1704afc.js",
     "service-worker.js": "/portf/service-worker.js",
-    "static/css/main.0ea99ac4.chunk.css.map": "/portf/static/css/main.0ea99ac4.chunk.css.map",
-    "static/js/2.3009ed74.chunk.js.LICENSE.txt": "/portf/static/js/2.3009ed74.chunk.js.LICENSE.txt",
-    "static/media/Resume.pdf": "/portf/static/media/Resume.1a8fbcc8.pdf",
+    "static/css/main.f96a329f.chunk.css.map": "/portf/static/css/main.f96a329f.chunk.css.map",
+    "static/js/2.c09f4ef2.chunk.js.LICENSE.txt": "/portf/static/js/2.c09f4ef2.chunk.js.LICENSE.txt",
     "static/media/Resume_Vol_Petrytsya.pdf": "/portf/static/media/Resume_Vol_Petrytsya.f45fcb9e.pdf",
     "static/media/mainContainer.style.css": "/portf/static/media/background.5bb7c8d0.png",
     "static/media/booksSearch.png": "/portf/static/media/booksSearch.2279fe8d.png",
@@ -23,14 +22,13 @@
     "static/media/personal.png": "/portf/static/media/personal.778e2035.png",
     "static/media/resumeIcon.png": "/portf/static/media/resumeIcon.3a1a90db.png",
     "static/media/stayingInTonight.png": "/portf/static/media/stayingInTonight.07e42be2.png",
-    "static/media/uArrow.png": "/portf/static/media/uArrow.7d1ede73.png",
     "static/media/weatherDashboard.png": "/portf/static/media/weatherDashboard.cd909be0.png",
     "static/media/workoutTracker.png": "/portf/static/media/workoutTracker.5c060c76.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f89d973a.js",
-    "static/js/2.3009ed74.chunk.js",
-    "static/css/main.0ea99ac4.chunk.css",
-    "static/js/main.2977bd53.chunk.js"
+    "static/js/2.c09f4ef2.chunk.js",
+    "static/css/main.f96a329f.chunk.css",
+    "static/js/main.8537752a.chunk.js"
   ]
 }
