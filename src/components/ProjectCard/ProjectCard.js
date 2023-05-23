@@ -1,19 +1,22 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import memoryMaker from "../images/memoryMaker.png";
 import stayingInTonight from "../images/stayingInTonight.png";
-import employeeDirectory from "../images/employeeDirectory.png";
+import workoutTracker from "../images/workoutTracker.png";
 import weatherDashboard from "../images/weatherDashboard.png";
+import gallerySearch from "../images/gallerySearch.png";
 import booksSearch from "../images/booksSearch.png";
 import codingQuiz from "../images/codingQuiz.gif";
-import ScrollUp from "../ScrollUp/ScrollUp";
+// import ScrollUp from "../ScrollUp/ScrollUp";
 import "./projectCard.style.css";
 export default function ProjectCard(props) {
   const images = {
     memoryMaker,
     booksSearch,
+    gallerySearch,
     stayingInTonight,
-    employeeDirectory,
+    workoutTracker,
     weatherDashboard,
     codingQuiz,
   };

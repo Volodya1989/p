@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/iframe-has-title */
 /* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import Resume from "../../assets/Resume.pdf";
@@ -99,7 +100,7 @@ const Contact = () => {
               </div>
             </div>
 
-            <ScrollUp />
+            {/* <ScrollUp /> */}
           </div>
         </div>
       </section>

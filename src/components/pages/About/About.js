@@ -30,7 +30,6 @@ function About() {
 
               <div className="row">
                 <div className="col-sm-12">
-                  // eslint-disable-next-line jsx-a11y/img-redundant-alt
                   <img
                     src={personal}
                     id="personalPicture"
@@ -51,11 +50,11 @@ function About() {
                   <p>
                     Now a few words about my background. Originally I'm from
                     Ukraine. Having moved to the US more than 8 years ago.
-                    Started my career as QA Engineer and worked for a while.
-                    However, I felt that it was not enough for me. So, then I
-                    decided to become Software Developer and now enjoy by being
-                    whom I am. Now, I'm looking for new opportunities as Full
-                    Stack Developer.
+                    Started my career as manual QA Engineer and now enjoying
+                    working as QA Automation Test Engineer. However, I'm very
+                    pasionate about Software Development. At a free time
+                    improving my skills with regard to Web Development and now
+                    I'm looking for new opportunities as Full Stack Developer.
                   </p>
                   <hr />
                   <div id="aboutIcons" className="row ">

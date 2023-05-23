@@ -6,7 +6,7 @@ export const projects = [
     deployedLink: "https://memory-make.herokuapp.com/",
     repositoryLink: "https://github.com/Volodya1989/Memory-Maker",
     overview:
-      "This application is intended to help user organize their memories so that they spend less time scrolling through their phone for pictures and more time enjoying their memories! ",
+      "This app is intended to help user organize their memories so that they spend less time scrolling through their phone in search for pictures! ",
   },
   {
     name: "Books Search",
@@ -14,26 +14,24 @@ export const projects = [
     image: "booksSearch",
     deployedLink: "https://google-boks-search.herokuapp.com/",
     repositoryLink: "https://github.com/Volodya1989/google-books-search",
-    overview: `This is MERN application. It was created for people who would like to search for books. Also Node, Express and MongoDB were used so that users can save books to review or purchase later on.`,
+    overview: `This is MERN application. It was created for people who would like to search for books. Using this application users can save books to review or purchase later on.`,
   },
   {
-    name: "Staying In Tonight",
-    key: "stayingInTonight",
-    image: "stayingInTonight",
-    deployedLink: "https://volodya1989.github.io/Staying-in-Tonight-Generator/",
-    repositoryLink:
-      "https://github.com/Volodya1989/Staying-in-Tonight-Generator",
+    name: "Gallery Search",
+    key: "gallerySearch",
+    image: "gallerySearch",
+    deployedLink: "https://volodya1989.github.io/goit-js-hw-11/",
+    repositoryLink: "https://github.com/Volodya1989/goit-js-hw-11",
     overview:
-      "Staying in Tonight application serves as a tool to help users make a decision about how to spend a night staying at home, by either watching a movie or playing a video game.",
+      "Gallery Search application serves as a tool to help users find and enjoy high quality images on different themes  and providing additional information on each picture.",
   },
   {
-    name: "Employee Directory",
-    key: "employeeDirectory",
-    image: "employeeDirectory",
-    deployedLink: "https://volodya1989.github.io/employee_directory/",
-    repositoryLink: "https://github.com/Volodya1989/employee_directory",
-    overview: `Employee Directory Application was build by using React.js.
-    This application is intended for people who want to to be able to view entire employee directory at once so that they have quick access to their information.`,
+    name: "Workout Tracker",
+    key: "workoutTracker",
+    image: "workoutTracker",
+    deployedLink: "https://cryptic-shore-89598.herokuapp.com/",
+    repositoryLink: "https://github.com/Volodya1989/workout-tracker",
+    overview: `This Workout Tracker Application provides opportunity to view create and track daily workouts. User is be able to log multiple exercises in a workout on a given day.`,
   },
   {
     name: "Weather Dashboard",
