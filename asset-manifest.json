@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portf/static/css/main.f96a329f.chunk.css",
-    "main.js": "/portf/static/js/main.8537752a.chunk.js",
-    "main.js.map": "/portf/static/js/main.8537752a.chunk.js.map",
+    "main.js": "/portf/static/js/main.e5d16eb6.chunk.js",
+    "main.js.map": "/portf/static/js/main.e5d16eb6.chunk.js.map",
     "runtime-main.js": "/portf/static/js/runtime-main.f89d973a.js",
     "runtime-main.js.map": "/portf/static/js/runtime-main.f89d973a.js.map",
-    "static/js/2.c09f4ef2.chunk.js": "/portf/static/js/2.c09f4ef2.chunk.js",
-    "static/js/2.c09f4ef2.chunk.js.map": "/portf/static/js/2.c09f4ef2.chunk.js.map",
+    "static/js/2.5c593407.chunk.js": "/portf/static/js/2.5c593407.chunk.js",
+    "static/js/2.5c593407.chunk.js.map": "/portf/static/js/2.5c593407.chunk.js.map",
     "index.html": "/portf/index.html",
-    "precache-manifest.627517c0341a89519c3640c4c1704afc.js": "/portf/precache-manifest.627517c0341a89519c3640c4c1704afc.js",
+    "precache-manifest.9c632bd7f0ffb0df2c6d8c8c7f3047b0.js": "/portf/precache-manifest.9c632bd7f0ffb0df2c6d8c8c7f3047b0.js",
     "service-worker.js": "/portf/service-worker.js",
     "static/css/main.f96a329f.chunk.css.map": "/portf/static/css/main.f96a329f.chunk.css.map",
-    "static/js/2.c09f4ef2.chunk.js.LICENSE.txt": "/portf/static/js/2.c09f4ef2.chunk.js.LICENSE.txt",
+    "static/js/2.5c593407.chunk.js.LICENSE.txt": "/portf/static/js/2.5c593407.chunk.js.LICENSE.txt",
     "static/media/Resume_Vol_Petrytsya.pdf": "/portf/static/media/Resume_Vol_Petrytsya.f45fcb9e.pdf",
     "static/media/mainContainer.style.css": "/portf/static/media/background.5bb7c8d0.png",
     "static/media/booksSearch.png": "/portf/static/media/booksSearch.2279fe8d.png",
@@ -20,15 +20,17 @@
     "static/media/github.png": "/portf/static/media/github.0918d786.png",
     "static/media/memoryMaker.png": "/portf/static/media/memoryMaker.a817b156.png",
     "static/media/personal.png": "/portf/static/media/personal.778e2035.png",
+    "static/media/radventure.png": "/portf/static/media/radventure.bd7db09f.png",
     "static/media/resumeIcon.png": "/portf/static/media/resumeIcon.3a1a90db.png",
     "static/media/stayingInTonight.png": "/portf/static/media/stayingInTonight.07e42be2.png",
     "static/media/weatherDashboard.png": "/portf/static/media/weatherDashboard.cd909be0.png",
-    "static/media/workoutTracker.png": "/portf/static/media/workoutTracker.5c060c76.png"
+    "static/media/workoutTracker.png": "/portf/static/media/workoutTracker.5c060c76.png",
+    "static/media/worldOfBooks.png": "/portf/static/media/worldOfBooks.51ff04d0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f89d973a.js",
-    "static/js/2.c09f4ef2.chunk.js",
+    "static/js/2.5c593407.chunk.js",
     "static/css/main.f96a329f.chunk.css",
-    "static/js/main.8537752a.chunk.js"
+    "static/js/main.e5d16eb6.chunk.js"
   ]
 }

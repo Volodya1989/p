@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16baf3391261ecb6e89d8b1c42a7a0d8",
+    "revision": "37dda36ef5ed189b60ba01edf095820a",
     "url": "/portf/index.html"
   },
   {
-    "revision": "d88b4308ab4654c3644a",
+    "revision": "a1138182003451b21cd4",
     "url": "/portf/static/css/main.f96a329f.chunk.css"
   },
   {
-    "revision": "7cdf0110998b049ffd8b",
-    "url": "/portf/static/js/2.c09f4ef2.chunk.js"
+    "revision": "f598dac36411067d0315",
+    "url": "/portf/static/js/2.5c593407.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portf/static/js/2.c09f4ef2.chunk.js.LICENSE.txt"
+    "url": "/portf/static/js/2.5c593407.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d88b4308ab4654c3644a",
-    "url": "/portf/static/js/main.8537752a.chunk.js"
+    "revision": "a1138182003451b21cd4",
+    "url": "/portf/static/js/main.e5d16eb6.chunk.js"
   },
   {
     "revision": "0700ce093da7849dd878",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portf/static/media/personal.778e2035.png"
   },
   {
+    "revision": "bd7db09fb6d4ca3bca7463cae60563f9",
+    "url": "/portf/static/media/radventure.bd7db09f.png"
+  },
+  {
     "revision": "3a1a90db8e059b12ec1a45963a0afbdd",
     "url": "/portf/static/media/resumeIcon.3a1a90db.png"
   },
@@ -70,5 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5c060c760e1cd1be9cc20ad71b3d40c0",
     "url": "/portf/static/media/workoutTracker.5c060c76.png"
+  },
+  {
+    "revision": "51ff04d0e66fe2d083fb0b962aea44f0",
+    "url": "/portf/static/media/worldOfBooks.51ff04d0.png"
   }
 ]);
