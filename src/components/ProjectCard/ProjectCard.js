@@ -9,7 +9,7 @@ import gallerySearch from "../images/gallerySearch.png";
 import booksSearch from "../images/booksSearch.png";
 import codingQuiz from "../images/codingQuiz.gif";
 import worldOfBooks from "../images/worldOfBooks.png";
-import radventure from "../images/radventure.png"
+import radventure from "../images/radventure.png";
 // import ScrollUp from "../ScrollUp/ScrollUp";
 import "./projectCard.style.css";
 export default function ProjectCard(props) {
@@ -22,11 +22,10 @@ export default function ProjectCard(props) {
     weatherDashboard,
     codingQuiz,
     worldOfBooks,
-    radventure
+    radventure,
   };
 
   const { image, name, deployedLink, repositoryLink, overview } = props;
-  console.log(deployedLink);
 
   return (
     <div className="col-sm-12 col-md-6 mb-4 projectCard">
